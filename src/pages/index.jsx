@@ -32,16 +32,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Eder Refrigeração</title>
+        <title> Home | Hobby Video Store - Lençóis Paulista </title>
         <meta
           name="description"
-          content="Eder Refrigeração - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
+          content="Hobby Video Store"
         />
         <meta
           name="keywords"
-          content=""
+          content="Presentes, Brinquedos, Utilidades Dmésticas"
         />
-        <meta name="author" content="Eder Refrigeração" />
+        <meta name="author" content="Hobby Video Store" />
 
         
       </Head>
@@ -57,13 +57,12 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              Atendimento personalizado faz toda a <strong>diferença</strong>
+              Presentes, Filmes e muito mais é na <strong>Hobby Video Store</strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nossa missão é entregar qualidade e preço justo para proporcionar
-              máxima satisfação aos nossos Clientes.
+            Aqui você encontra o que precisa pra presentear quem você mais gosta!
             </p>
            
   
