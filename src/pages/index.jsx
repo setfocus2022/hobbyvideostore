@@ -24,7 +24,7 @@ export default function Home() {
     gtag.event({
       action: "agendar_consulta",
       category: "marcar_consulta_whatsapp",
-      label: "Faça m Orçamento",
+      label: "Fale com a gente!",
       value: "Orçamento",
     });
   }
@@ -91,7 +91,7 @@ export default function Home() {
             data-aos-delay="400"
           >
             <MyImage
-              src="/images/heroLais.jpg"
+              src="/images/hero.jpg"
               alt="Paciente Sorrindo na clínica"
               width="440"
               height="510"
